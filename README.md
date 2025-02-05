@@ -24,7 +24,7 @@ Plate with a hole - Boundary condtions and Tensile load applied<br/>
   <li>Maximum stress occurred around the hole, this aligned with theoretical values(percentage error of under 5%) - FEA mesh converged and was validated as superior to theoretical calculations values, proving to be more accurate</li>
 </ul>
   <p align="center"> 
-Deformed Plate
+Deformed Plate - using optimal mesh density
     <br/>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mVYqLRWr/FEA-deformed-shape.png" alt="FEA-deformed-shape" border="0">
 
