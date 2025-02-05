@@ -1,4 +1,4 @@
-<h1>Computational Fluid Dynamics</h1>
+<h1>Finite Element Analysis (FEA)</h1>
 
 <h2>Project Outline</h2>
 <ul>
